@@ -1,0 +1,5 @@
+[info]
+title=Linter for Scala, using Scalastyle
+desc=Linter for CudaLint, adds support for Scala lexer, using Scalastyle
+type=cudatext-plugin
+subdir=cuda_lint_scalastyle
